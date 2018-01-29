@@ -1,0 +1,25 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neosuperprogrammer/node_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neosuperprogrammer/node_test/issues"
+  },
+  "homepage": "https://github.com/neosuperprogrammer/node_test#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "underscore": "^1.8.3",
+    "xlsx": "^0.11.18",
+    "xml2js": "^0.4.19"
+  }
+}
